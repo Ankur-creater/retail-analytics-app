@@ -202,7 +202,8 @@ def main():
                     dwell_time_table.empty()
 
                 # --- Display Video ---
-                video_placeholder.image(annotated_frame, channels="BGR", use_column_width=True)
+                # THIS IS THE CORRECTED LINE
+                video_placeholder.image(annotated_frame, channels="BGR", use_container_width=True)
 
         finally:
             cap.release() # Ensure video capture is released
