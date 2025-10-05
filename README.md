@@ -3,7 +3,7 @@ This project is a real-time retail analytics application built with Python, Stre
 
 The interactive web dashboard allows users to upload their own video files and see the analysis happen in real time.
 
-![Demo GIF of the application in action]  (<-- You can create a GIF of your app and add it here for a better visual appeal)
+(https://retail-analytics-app-7kftfqdxpwyedqzwpyazhq.streamlit.app/)
 
 ✨ Features
 Interactive Web Dashboard: A user-friendly interface built with Streamlit.
